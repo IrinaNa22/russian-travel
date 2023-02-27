@@ -1,0 +1,7 @@
+.header__lang {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-self: flex-end;
+  justify-content: flex-end; 
+}

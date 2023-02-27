@@ -1,0 +1,20 @@
+.header {
+  min-height: 52px;
+  width: 92,5%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+  margin-right: 3.75%;
+  margin-left: 3.75%;
+  padding-top: 28px;
+  width: 92.5%;
+}
+
+@media screen and (max-width: 425px) {
+  .header {
+    min-height: 42px;
+    padding: 16;
+    
+  }
+}

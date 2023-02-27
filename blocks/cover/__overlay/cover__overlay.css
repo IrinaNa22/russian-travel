@@ -1,0 +1,30 @@
+.cover__overlay {
+  width: calc((1184px/1280px)*100);
+  box-sizing: border-box;
+  margin-right: 3.7%;
+  margin-left: 3.7%;
+  margin-top: 92px;
+  overflow: hidden;  
+}
+
+
+@media screen and (max-width: 1024px) {
+  .cover__overlay {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .cover__overlay {
+    margin-top: 90px;
+  }
+}
+
+
+@media screen and (max-width: 560px) {
+  .cover__overlay {
+    margin-top: 66px; 
+  }
+}

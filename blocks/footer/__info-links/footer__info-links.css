@@ -1,0 +1,17 @@
+.footer__info-links {
+  display: flex;
+  flex-direction: row;
+}
+
+@media screen and (max-width: 730px) {
+  .footer__info-links {
+     margin-bottom: 48px;
+   } 
+ }
+
+ 
+ @media screen and (max-width: 500px) {
+  .footer__info-links {
+     flex-direction: column;
+  } 
+ }

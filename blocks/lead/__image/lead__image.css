@@ -1,0 +1,18 @@
+.lead__image {
+  position: relative;
+  max-width: 100%;
+  display: block;
+  min-height: 62.5%;
+  padding-top: 64px;
+  padding-bottom: 8px;
+  margin-right: 148px;
+  margin-left: 148px ;
+  object-fit: cover;
+}
+
+  
+@media screen and (max-width:1024px) {
+  .lead__image {
+    padding-top: 56px;
+  }
+}
