@@ -2,7 +2,7 @@
   width: 100%;
   display: grid;
   grid-template-columns: 460px 1fr;
-  grid-template-rows: 1fr auto ;
+  grid-template-rows: 1fr auto;
   column-gap: 40px;
   row-gap: 48px;
   box-sizing: border-box;
@@ -21,8 +21,3 @@
   }
 }
 
-@media screen and (max-width: 680px) {
-  .place {
-    width: calc((320px/680px)*100);
-  }
-}
