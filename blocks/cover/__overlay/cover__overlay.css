@@ -4,7 +4,7 @@
   margin-right: 3.7%;
   margin-left: 3.7%;
   margin-top: 92px;
-  overflow: hidden;  
+  overflow: hidden;
 }
 
 
@@ -25,6 +25,6 @@
 
 @media screen and (max-width: 560px) {
   .cover__overlay {
-    margin-top: 66px; 
+    margin-top: 66px;
   }
 }

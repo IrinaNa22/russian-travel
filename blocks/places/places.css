@@ -6,13 +6,12 @@
   overflow: hidden;
   margin-right: 11%;
   margin-left: 11%; 
-
 }
 
 @media screen and (max-width: 1200px) {
   .places {
     margin-right: 48px;
-    margin-left: 48px; 
+    margin-left: 48px;
   }
 }
 
