@@ -1,12 +1,11 @@
 .intro__wrapper {
-  max-width: 690px;
-  min-height: 429px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  margin-left: 148px;
-  margin-right: 442px;
+  margin-left: 11.56%;
+  margin-right: 34.53%;
 }
+
 
 @media screen and (max-width: 1024px) {
   .intro__wrapper {

@@ -1,13 +1,13 @@
 .place__title {
   margin: 0;
   max-width: 460px;
-  font-family: 'Inter';
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
   line-height: 1;
   color: #FFFFFF;
 }
+
 
 @media screen and (max-width: 900px) {
   .place__title {
@@ -23,11 +23,4 @@
     line-height: 1;
     padding: 0 16px 0;
     }
-}
-
-@media screen and (max-width: 600px) {
-  .place { 
-    grid-template-columns: 100%;
-    row-gap: 32px;
-  }
 }

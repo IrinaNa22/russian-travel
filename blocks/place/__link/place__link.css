@@ -1,8 +1,6 @@
 .place__link {
   margin: 0;
   max-width: 456px;
-  min-height: 22px;
-  font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -10,6 +8,7 @@
   text-decoration-line: underline;
   color: #FFFFFF;
   position: relative;
+  padding-top: 12px;
 }
 
 .place__link:hover {
